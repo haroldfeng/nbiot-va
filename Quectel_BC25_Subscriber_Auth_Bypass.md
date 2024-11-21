@@ -1,5 +1,5 @@
 
-# Quectel B25 Subscriber Authentication Bypass
+# Quectel BC25 Subscriber Authentication Bypass
 
 ## Overview
 - **Description:** Quectel BC25 with firmware version BC25PAR01A06 allows to bypass subscriber security authentication and legally register the device to rouge NB-IoT network without the security key via software-defined radio (USRP B210).

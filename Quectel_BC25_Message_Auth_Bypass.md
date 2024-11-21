@@ -1,4 +1,4 @@
-# Quectel B25 Message Authentication Bypass
+# Quectel BC25 Message Authentication Bypass
 
 ## Overview
 - **Description:** Quectel BC25 with firmware version BC25PAR01A06 allows to bypass message security authentication and inject attack message without the security key via software-defined radio (USRP B210).
